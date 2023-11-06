@@ -3,7 +3,7 @@
     "line": 1,
     "elements": [
       {
-        "start_timestamp": "2023-11-06T15:11:50.708Z",
+        "start_timestamp": "2023-11-06T16:14:25.396Z",
         "line": 3,
         "name": "Create an account with valid information",
         "description": "",
@@ -13,7 +13,7 @@
         "steps": [
           {
             "result": {
-              "duration": 10013000000,
+              "duration": 9935000000,
               "status": "passed"
             },
             "line": 4,
@@ -25,7 +25,7 @@
           },
           {
             "result": {
-              "duration": 398000000,
+              "duration": 478000000,
               "status": "passed"
             },
             "line": 5,
@@ -37,7 +37,7 @@
           },
           {
             "result": {
-              "duration": 177000000,
+              "duration": 119000000,
               "status": "passed"
             },
             "line": 6,
@@ -49,7 +49,7 @@
           },
           {
             "result": {
-              "duration": 116000000,
+              "duration": 101000000,
               "status": "passed"
             },
             "line": 7,
@@ -61,7 +61,7 @@
           },
           {
             "result": {
-              "duration": 87000000,
+              "duration": 89000000,
               "status": "passed"
             },
             "line": 8,
@@ -73,7 +73,7 @@
           },
           {
             "result": {
-              "duration": 92000000,
+              "duration": 103000000,
               "status": "passed"
             },
             "line": 9,
@@ -85,7 +85,7 @@
           },
           {
             "result": {
-              "duration": 91000000,
+              "duration": 101000000,
               "status": "passed"
             },
             "line": 10,
@@ -97,7 +97,7 @@
           },
           {
             "result": {
-              "duration": 76000000,
+              "duration": 102000000,
               "status": "passed"
             },
             "line": 11,
@@ -109,7 +109,7 @@
           },
           {
             "result": {
-              "duration": 80000000,
+              "duration": 125000000,
               "status": "passed"
             },
             "line": 12,
@@ -121,7 +121,7 @@
           },
           {
             "result": {
-              "duration": 108000000,
+              "duration": 127000000,
               "status": "passed"
             },
             "line": 13,
@@ -133,7 +133,7 @@
           },
           {
             "result": {
-              "duration": 95000000,
+              "duration": 109000000,
               "status": "passed"
             },
             "line": 14,
@@ -145,7 +145,7 @@
           },
           {
             "result": {
-              "duration": 99000000,
+              "duration": 152000000,
               "status": "passed"
             },
             "line": 15,
@@ -157,7 +157,7 @@
           },
           {
             "result": {
-              "duration": 125000000,
+              "duration": 185000000,
               "status": "passed"
             },
             "line": 16,
@@ -169,7 +169,7 @@
           },
           {
             "result": {
-              "duration": 95000000,
+              "duration": 139000000,
               "status": "passed"
             },
             "line": 17,
@@ -181,7 +181,7 @@
           },
           {
             "result": {
-              "duration": 1251000000,
+              "duration": 1213000000,
               "status": "passed"
             },
             "line": 18,
@@ -193,7 +193,7 @@
           },
           {
             "result": {
-              "duration": 100000000,
+              "duration": 89000000,
               "status": "passed"
             },
             "line": 19,
